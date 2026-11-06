@@ -1,0 +1,2 @@
+mkdir -p __pycache__
+echo "binary-placeholder" > __pycache__/game.cpython-311.pyc
